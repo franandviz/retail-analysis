@@ -1,0 +1,7 @@
+dim_shipping_type_id,shipping_type
+1,Express
+2,Next Day Air
+3,Store Pickup
+4,Standard
+5,Free Shipping
+6,2-Day Shipping
